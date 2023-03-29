@@ -6,7 +6,7 @@ description: |
   The game Treasure Fall
 
 grade: stable
-icon: treasureshr_icon.png
+icon: treasure_icon.png
 
 base: core18
 confinement: strict
